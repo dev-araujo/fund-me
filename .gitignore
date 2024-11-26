@@ -1,0 +1,11 @@
+# Ignore arquivos compilados
+artifacts/
+
+# Ignore arquivos de cache e build
+cache/
+
+# Ignore arquivos de estado
+states/
+
+# Ignore arquivos temporários do Remix
+.DS_Store
